@@ -1,0 +1,12 @@
+C:\Users\timofey.latypov\Documents\Magic\Game\FirstProgram_Library\bin\Debug\net8.0\FirstProgram_Library.deps.json
+C:\Users\timofey.latypov\Documents\Magic\Game\FirstProgram_Library\bin\Debug\net8.0\FirstProgram_Library.dll
+C:\Users\timofey.latypov\Documents\Magic\Game\FirstProgram_Library\bin\Debug\net8.0\FirstProgram_Library.pdb
+C:\Users\timofey.latypov\Documents\Magic\Game\FirstProgram_Library\obj\Debug\net8.0\FirstProgram_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timofey.latypov\Documents\Magic\Game\FirstProgram_Library\obj\Debug\net8.0\FirstProgram_Library.AssemblyInfoInputs.cache
+C:\Users\timofey.latypov\Documents\Magic\Game\FirstProgram_Library\obj\Debug\net8.0\FirstProgram_Library.AssemblyInfo.cs
+C:\Users\timofey.latypov\Documents\Magic\Game\FirstProgram_Library\obj\Debug\net8.0\FirstProgram_Library.csproj.CoreCompileInputs.cache
+C:\Users\timofey.latypov\Documents\Magic\Game\FirstProgram_Library\obj\Debug\net8.0\FirstProgram_Library.sourcelink.json
+C:\Users\timofey.latypov\Documents\Magic\Game\FirstProgram_Library\obj\Debug\net8.0\FirstProgram_Library.dll
+C:\Users\timofey.latypov\Documents\Magic\Game\FirstProgram_Library\obj\Debug\net8.0\refint\FirstProgram_Library.dll
+C:\Users\timofey.latypov\Documents\Magic\Game\FirstProgram_Library\obj\Debug\net8.0\FirstProgram_Library.pdb
+C:\Users\timofey.latypov\Documents\Magic\Game\FirstProgram_Library\obj\Debug\net8.0\ref\FirstProgram_Library.dll

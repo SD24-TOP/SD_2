@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\timofey.latypov\\Documents\\Magic\\Game\\FirstProgramm\\",
+  "WorkspaceRootPath": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgramm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59FD0BB1-6EDA-487F-A53F-83E6EE0EC559}|FirstProgramm.csproj|c:\\users\\timofey.latypov\\documents\\magic\\game\\firstprogramm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59FD0BB1-6EDA-487F-A53F-83E6EE0EC559}|FirstProgramm.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\firstprogramm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59FD0BB1-6EDA-487F-A53F-83E6EE0EC559}|FirstProgramm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ECFEECA-23EC-425A-911C-9F36A20A2767}|..\\FirstProgram_Library\\FirstProgram_Library.csproj|c:\\users\\timofey.latypov\\documents\\magic\\game\\firstprogram_library\\even.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timofey.latypov\\Documents\\Magic\\Game\\FirstProgram_Library\\Even.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,21 +40,20 @@
               "DocumentIndex": 1,
               "Title": "Even.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\Game\\FirstProgram_Library\\Even.cs",
-              "RelativeDocumentMoniker": "..\\FirstProgram_Library\\Even.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\FirstProgram_Library\\Even.cs",
               "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\Game\\FirstProgram_Library\\Even.cs",
-              "RelativeToolTip": "..\\FirstProgram_Library\\Even.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\FirstProgram_Library\\Even.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T09:33:51.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T09:33:51.728Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\Game\\FirstProgramm\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgramm\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\Game\\FirstProgramm\\Program.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgramm\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
