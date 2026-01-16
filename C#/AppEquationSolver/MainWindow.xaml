@@ -1,0 +1,56 @@
+﻿<Window x:Class="AppEquationSolver.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppEquationSolver"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800" Background="#53545c">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel 
+                    Grid.Column="1"
+                    Margin="10">
+            <Label Content="Введите старт интервала" FontSize="20" Foreground="White"/>
+            <TextBox x:Name="Start_Textbox" Width="200" FontSize="20"/>
+            <Label Content="Введите конец интервала" FontSize="20" Foreground="White"/>
+            <TextBox x:Name="End_Textbox" Width="200" FontSize="20"/>
+            <Button Margin="10,20" Content="Старт" FontSize="20" Click="Button_Click"/>
+            <Label Content="Результат" FontSize="20" Foreground="White"/>
+            <TextBlock 
+                       x:Name="Result_Textblock"
+                       Width="200" 
+                       Height="300" 
+                       FontSize="20"
+                       Background="White" 
+                       Foreground="Black"
+                       TextWrapping="WrapWithOverflow" 
+                />
+
+        </StackPanel>
+        <StackPanel Margin="10"
+            HorizontalAlignment="Left" 
+            VerticalAlignment="Top">
+            <Label Content="Введите старт интервала" FontSize="20" Foreground="White"/>
+            <TextBox x:Name="Start_Textbox1" Width="200" FontSize="20"/>
+            <Label Content="Введите конец интервала" FontSize="20" Foreground="White"/>
+            <TextBox x:Name="End_Textbox1" Width="200" FontSize="20"/>
+            <Button Margin="10,20" Content="Старт" FontSize="20" Click="Button_Click"/>
+            <Label Content="Результат" FontSize="20" Foreground="White"/>
+            <TextBlock 
+               x:Name="Result_Textblock1"
+               Width="200" 
+               Height="300" 
+               FontSize="20"
+               Background="White" 
+               Foreground="Black"
+               TextWrapping="WrapWithOverflow" 
+        />
+
+        </StackPanel>
+        
+    </Grid>
+</Window>
