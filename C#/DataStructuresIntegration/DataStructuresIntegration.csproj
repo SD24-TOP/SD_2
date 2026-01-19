@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DataStructures\DataStructures.csproj" />
-    <ProjectReference Include="..\FirstProgram_Library\FirstProgram_Library.csproj" />
   </ItemGroup>
 
 </Project>
