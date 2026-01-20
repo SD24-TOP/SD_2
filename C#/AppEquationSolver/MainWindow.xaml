@@ -8,8 +8,7 @@
         Title="MainWindow" Height="600" Width="800" Background="#53545c">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
         <StackPanel 
@@ -52,29 +51,6 @@
         />
 
         </StackPanel>
-        <StackPanel Grid.Column="2">
-                <GroupBox Header="Смартфон 2015" Padding="5">
-            <ScrollViewer Name="scroll" CanContentScroll="True" Height="150">
-                    <StackPanel>
-                        <RadioButton GroupName="Phones" Margin="4">iPhone 6S</RadioButton>
-                        <RadioButton GroupName="Phones" Margin="4">iPhone 6S Plus</RadioButton>
-                        <RadioButton GroupName="Phones" Margin="4">Lumia 550</RadioButton>
-                        <RadioButton GroupName="Phones" Margin="4">Lumia 950</RadioButton>
-                        <RadioButton GroupName="Phones" Margin="4">Nexus 5X</RadioButton>
-                        <RadioButton GroupName="Phones" Margin="4">Nexus 6P</RadioButton>
-                        <RadioButton GroupName="Phones" Margin="4">Galaxy S6 Edge</RadioButton>
-                    </StackPanel>
-            </ScrollViewer>
-                </GroupBox>
-            <Grid>
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*" />
-                    <ColumnDefinition Width="*" />
-                </Grid.ColumnDefinitions>
-                <Button Content="Up" Grid.Column="0" Margin="4"/>
-                <Button Content="Down" Grid.Column="1" Margin="4"/>
-            </Grid>
-        </StackPanel>
-
+        
     </Grid>
 </Window>

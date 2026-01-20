@@ -3,13 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgramm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAB0CEBC-49CB-4660-8A61-8118FD86CA1A}|..\\AppEquationSolver\\AppEquationSolver.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\appequationsolver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E3F01887-2918-458B-A065-A57469CF02A3}|..\\DataStructuresIntegration\\DataStructuresIntegration.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\datastructuresintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C64E6147-A4BD-4F3A-B37B-DB600D448D85}|..\\DataStructures\\DataStructures.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\datastructures\\list\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3F01887-2918-458B-A065-A57469CF02A3}|..\\DataStructuresIntegration\\DataStructuresIntegration.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\datastructuresintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C64E6147-A4BD-4F3A-B37B-DB600D448D85}|..\\DataStructures\\DataStructures.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\datastructures\\datastructures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -46,6 +43,9 @@
       "AbsoluteMoniker": "D:0:0:{A731507C-C1EC-DB57-EE89-73CC6C4C1DFC}|..\\FirstProgram_Library\\FirstProgram_Library.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\firstprogram_library\\equationsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EAB0CEBC-49CB-4660-8A61-8118FD86CA1A}|..\\AppEquationSolver\\AppEquationSolver.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\appequationsolver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{51B04D2B-7186-4C2D-A5F6-20C0D7079083}|..\\QuadraticEquation\\QuadraticEquation.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\quadraticequation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,8 +62,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 264,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructuresIntegration\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DataStructuresIntegration\\Program.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructuresIntegration\\Program.cs",
+              "RelativeToolTip": "..\\DataStructuresIntegration\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:19:09.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\List\\MyLinkedList.cs",
+              "RelativeDocumentMoniker": "..\\DataStructures\\List\\MyLinkedList.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\List\\MyLinkedList.cs",
+              "RelativeToolTip": "..\\DataStructures\\List\\MyLinkedList.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:03:58.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\Common\\Node.cs",
+              "RelativeDocumentMoniker": "..\\DataStructures\\Common\\Node.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\Common\\Node.cs",
+              "RelativeToolTip": "..\\DataStructures\\Common\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:01:55.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataStructures",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\DataStructures.csproj",
+              "RelativeDocumentMoniker": "..\\DataStructures\\DataStructures.csproj",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\DataStructures.csproj",
+              "RelativeToolTip": "..\\DataStructures\\DataStructures.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T10:01:25.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Parrot.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\OOP_basics\\Parrot.cs",
+              "RelativeDocumentMoniker": "..\\DataStructures\\OOP_basics\\Parrot.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\OOP_basics\\Parrot.cs",
+              "RelativeToolTip": "..\\DataStructures\\OOP_basics\\Parrot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:57:34.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\OOP_basics\\Dog.cs",
+              "RelativeDocumentMoniker": "..\\DataStructures\\OOP_basics\\Dog.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\OOP_basics\\Dog.cs",
+              "RelativeToolTip": "..\\DataStructures\\OOP_basics\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:57:24.979Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
@@ -78,92 +156,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructuresIntegration\\Program.cs",
-              "RelativeDocumentMoniker": "..\\DataStructuresIntegration\\Program.cs",
-              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructuresIntegration\\Program.cs",
-              "RelativeToolTip": "..\\DataStructuresIntegration\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:19:09.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyLinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\List\\MyLinkedList.cs",
-              "RelativeDocumentMoniker": "..\\DataStructures\\List\\MyLinkedList.cs",
-              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\List\\MyLinkedList.cs",
-              "RelativeToolTip": "..\\DataStructures\\List\\MyLinkedList.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:03:58.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\Common\\Node.cs",
-              "RelativeDocumentMoniker": "..\\DataStructures\\Common\\Node.cs",
-              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\Common\\Node.cs",
-              "RelativeToolTip": "..\\DataStructures\\Common\\Node.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:01:55.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataStructures.csproj",
-              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\DataStructures.csproj",
-              "RelativeDocumentMoniker": "..\\DataStructures\\DataStructures.csproj",
-              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\DataStructures.csproj",
-              "RelativeToolTip": "..\\DataStructures\\DataStructures.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-19T10:01:25.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Parrot.cs",
-              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\OOP_basics\\Parrot.cs",
-              "RelativeDocumentMoniker": "..\\DataStructures\\OOP_basics\\Parrot.cs",
-              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\OOP_basics\\Parrot.cs",
-              "RelativeToolTip": "..\\DataStructures\\OOP_basics\\Parrot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T09:57:34.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Dog.cs",
-              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\OOP_basics\\Dog.cs",
-              "RelativeDocumentMoniker": "..\\DataStructures\\OOP_basics\\Dog.cs",
-              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\OOP_basics\\Dog.cs",
-              "RelativeToolTip": "..\\DataStructures\\OOP_basics\\Dog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T09:57:24.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FirstProgram_Library.csproj",
+              "DocumentIndex": 9,
+              "Title": "FirstProgram_Library",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgram_Library\\FirstProgram_Library.csproj",
               "RelativeDocumentMoniker": "..\\FirstProgram_Library\\FirstProgram_Library.csproj",
               "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgram_Library\\FirstProgram_Library.csproj",
               "RelativeToolTip": "..\\FirstProgram_Library\\FirstProgram_Library.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-19T09:56:02.768Z"
+              "WhenOpened": "2026-01-19T09:56:02.768Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\OOP_basics\\Animal.cs",
               "RelativeDocumentMoniker": "..\\DataStructures\\OOP_basics\\Animal.cs",
@@ -171,11 +177,12 @@
               "RelativeToolTip": "..\\DataStructures\\OOP_basics\\Animal.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T09:54:08.567Z"
+              "WhenOpened": "2026-01-19T09:54:08.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Cat.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\OOP_basics\\Cat.cs",
               "RelativeDocumentMoniker": "..\\DataStructures\\OOP_basics\\Cat.cs",
@@ -183,23 +190,25 @@
               "RelativeToolTip": "..\\DataStructures\\OOP_basics\\Cat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T09:36:28.075Z"
+              "WhenOpened": "2026-01-19T09:36:28.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppEquationSolver.csproj",
+              "DocumentIndex": 10,
+              "Title": "AppEquationSolver",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\AppEquationSolver\\AppEquationSolver.csproj",
               "RelativeDocumentMoniker": "..\\AppEquationSolver\\AppEquationSolver.csproj",
               "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\AppEquationSolver\\AppEquationSolver.csproj",
               "RelativeToolTip": "..\\AppEquationSolver\\AppEquationSolver.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-19T09:35:04.207Z"
+              "WhenOpened": "2026-01-19T09:35:04.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\AppEquationSolver\\MainWindow.xaml",
               "RelativeDocumentMoniker": "..\\AppEquationSolver\\MainWindow.xaml",
@@ -223,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Even.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgram_Library\\Even.cs",
               "RelativeDocumentMoniker": "..\\FirstProgram_Library\\Even.cs",
@@ -231,11 +240,12 @@
               "RelativeToolTip": "..\\FirstProgram_Library\\Even.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T10:06:28.858Z"
+              "WhenOpened": "2026-01-16T10:06:28.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "EquationSolver.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgram_Library\\EquationSolver.cs",
               "RelativeDocumentMoniker": "..\\FirstProgram_Library\\EquationSolver.cs",
@@ -243,7 +253,8 @@
               "RelativeToolTip": "..\\FirstProgram_Library\\EquationSolver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T10:06:22.577Z"
+              "WhenOpened": "2026-01-16T10:06:22.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -255,7 +266,8 @@
               "RelativeToolTip": "..\\QuadraticEquation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T11:02:07.84Z"
+              "WhenOpened": "2026-01-14T11:02:07.84Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -271,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgramm\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -279,7 +291,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T09:22:18.7Z"
+              "WhenOpened": "2026-01-14T09:22:18.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
