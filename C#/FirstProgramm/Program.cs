@@ -1,5 +1,6 @@
 ﻿using DataStructures;
 using DataStructures.OOP_basics;
+using FirstProgram_Library;
 
 Cat cat = new Cat("Meowut");
 Console.WriteLine(cat.Name);
@@ -18,3 +19,11 @@ foreach (var animal in animals)
 {
     Console.WriteLine(animal.Roar());
 }
+
+
+User user1 = new User("Bob");
+User user2 = new User("Tom");
+
+
+Console.WriteLine(user1.ToString());
+Console.WriteLine(user2.ToString());

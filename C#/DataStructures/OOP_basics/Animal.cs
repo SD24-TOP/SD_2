@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataStructures.OOP_basics
 {
-    public class Animal
+    public abstract class Animal
     {
         #region Fields
         private string _name;

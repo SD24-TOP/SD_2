@@ -2,46 +2,46 @@
 
 namespace DataStructures.List
 {
-    public class MyLinkedList
+    public class MyLinkedList<T>
     {
-        public Node? Head { get; set; }
+        public Node<T>? Head { get; set; }
         
         public MyLinkedList() 
         {
         }
 
-        public MyLinkedList(Node head) { 
+        public MyLinkedList(Node<T> head) { 
             Head = head;
         }
 
-        public void Add(int value) {
+        public void Add(T value) {
             if (Head == null)
             {
-                Head = new Node(value);
+                Head = new Node<T>(value);
             }
             else
             {
-                Node curr = Head;
+                Node<T> curr = Head;
                 while (curr.Next != null)
                 {
                     curr = curr.Next;
                 }
-                Node next = new Node(value);
+                Node<T> next = new Node<T>(value);
                 curr.Next = next;
             }
         }
 
-        public void Remove(int value) {
+        public void Remove(T value) {
             if (Head == null) return;
 
-            Node curr = Head;
-            if (curr.Value == value)
+            Node<T> curr = Head;
+            if (curr.Value!.Equals(value))
             {
-                curr.Next = curr.Next.Next;
+                curr.Next = curr.Next?.Next;
             }
             else
             {
-                while (curr.Next.Value != value)
+                while (!curr.Next!.Value!.Equals(value))
                 {
                     curr = curr.Next;
                     if(curr.Next == null)
@@ -57,11 +57,11 @@ namespace DataStructures.List
             Head = null;
         }
 
-        public bool Contains(int value) {
+        public bool Contains(T value) {
             if (Head == null) return false;
 
-            Node curr = Head;
-            while (curr.Value != value)
+            Node<T> curr = Head;
+            while (!curr.Value!.Equals(value))
             {
                 if (curr.Next == null)
                 {
@@ -74,7 +74,7 @@ namespace DataStructures.List
 
         public int Count() {
             if (Head == null) return 0;
-            Node curr = Head;
+            Node<T> curr = Head;
             int count = 1;
             while (curr.Next != null)
             {

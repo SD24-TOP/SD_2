@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace DataStructures.Common
 {
-    public class Node
+    public class Node<T>
     {
-        public int Value { get; private set; }
-        public Node Next { get; set; }
-        public Node(int value) { Value = value; }
+        public T Value { get; private set; }
+        public Node<T>? Next { get; set; }
+        public Node(T value) { Value = value; }
     }
 }
