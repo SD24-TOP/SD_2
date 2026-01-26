@@ -1,29 +1,30 @@
-﻿using DataStructures;
-using DataStructures.OOP_basics;
-using FirstProgram_Library;
+﻿using DataStructures.FormalLanguages;
+using DataStructures.FormalLanguages.Common;
 
-Cat cat = new Cat("Meowut");
-Console.WriteLine(cat.Name);
-Console.WriteLine(cat.Roar());
-
-cat.Name = "Pushok";
-Console.WriteLine(cat.Name);
-Console.WriteLine(cat.Roar());
-
-List<Animal> animals = new List<Animal>();
-animals.Add(cat);
-animals.Add(new Dog("Bobik"));
-animals.Add(new Parrot("Captain"));
-
-foreach (var animal in animals)
+AutomataState state1 = new AutomataState("1");
+AutomataState state2 = new AutomataState("2");
+AutomataState state3 = new AutomataState("3");
+//Автомат для языка {01,0101,010101...}
+FiniteAutomata finiteAutomata = new FiniteAutomata()
 {
-    Console.WriteLine(animal.Roar());
-}
+    Alphabet = { "0", "1" },
+    AutomataStates = [
+        state1,state2,state3
+    ],
+    Transitions = [
+        new Transition(state1,state2,"0"),
+        new Transition(state2,state3,"1"),
+        new Transition(state3,state2,"0"),
+        ],
+    StartState = state1,
+    EndStates = [state3],
+};
 
-
-User user1 = new User("Bob");
-User user2 = new User("Tom");
-
-
-Console.WriteLine(user1.ToString());
-Console.WriteLine(user2.ToString());
+Console.WriteLine("Тест 1. 01");
+Console.WriteLine(finiteAutomata.CheckString("01"));
+Console.WriteLine("Тест 2. 0101");
+Console.WriteLine(finiteAutomata.CheckString("0101"));
+Console.WriteLine("Тест 3. 0101010");
+Console.WriteLine(finiteAutomata.CheckString("0101010"));
+Console.WriteLine("Тест 4. 00");
+Console.WriteLine(finiteAutomata.CheckString("00"));
