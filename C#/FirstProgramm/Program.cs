@@ -29,21 +29,59 @@
 //Console.WriteLine("Тест 4. 00");
 //Console.WriteLine(finiteAutomata.CheckString("00"));
 
+//LINQ
+//pair.Value.ForEach(); //1,2,3,4 -> ForEache(c.WriteLine("1"))
+//pair.Value.Select(); //1,2,3,4 -> Select(x=>x*x) -> 1,4,9,16
+//pair.Value.Where(); // 1,2,3,4 -> Where(x=>x%2==0) -> 2,4
+//pair.Value.Any(); //1,2,3,4 -> Any(x=>x%2==0) -> True
+//pair.Value.All(); //1,2,3,4 -> All(x=>x%2==0) -> False
 
 using DataStructures.Graph;
 
-Graph graph = new Graph([
+Graph graph1 = new Graph([
     [0,1,1,1],
     [1,0,1,1],
     [1,1,0,1],
     [1,1,1,0]
     ]);
 
-Console.WriteLine(graph.IsFull);
-Console.WriteLine(graph.IsOriented);
-Console.WriteLine(graph.IsWeighted);
+Console.WriteLine(graph1.IsFull);
+Console.WriteLine(graph1.IsOriented);
+Console.WriteLine(graph1.IsWeighted);
 Console.WriteLine(
     string.Join("\n",
-        graph.DestMatrix.Select(x=>
-            string.Join(",",x)
+        graph1.DestMatrix.Select(x =>
+            string.Join(",", x)
         ).ToList()));
+
+Console.WriteLine(string.Join("\n",
+    graph1.ListOfLinks.Select(kv => $"{kv.Key}:{string.Join(",", kv.Value)}")
+    ));
+
+
+Vertex a = new Vertex("A");
+Vertex b = new Vertex("B");
+Vertex c = new Vertex("C");
+Vertex d = new Vertex("D");
+
+
+Graph graph2 = new Graph(new Dictionary<Vertex, List<Vertex>>()
+    {
+        { a, [ b, d ]},
+        { b, [a]},
+        { c, []},
+        { d,  []}
+    });
+
+Console.WriteLine(graph2.IsFull);
+Console.WriteLine(graph2.IsOriented);
+Console.WriteLine(graph2.IsWeighted);
+Console.WriteLine(
+    string.Join("\n",
+        graph2.DestMatrix.Select(x =>
+            string.Join(",", x)
+        ).ToList()));
+
+Console.WriteLine(string.Join("\n",
+    graph2.ListOfLinks.Select(kv=>$"{kv.Key}:{string.Join(",",kv.Value)}")
+    ));
