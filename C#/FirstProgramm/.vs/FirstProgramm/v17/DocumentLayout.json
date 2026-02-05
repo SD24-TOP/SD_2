@@ -3,6 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgramm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\model\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\service\\iornytologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\service\\ornytologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\repository\\localornytologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\repository\\iornytologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\viewmodel\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\viewmodel\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\ornytolog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6315B1-8A5A-449E-B0C4-D3132543BF49}|..\\Ornytolog\\Ornytolog.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\ornytolog\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64E6147-A4BD-4F3A-B37B-DB600D448D85}|..\\DataStructures\\DataStructures.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\datastructures\\datastructures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59FD0BB1-6EDA-487F-A53F-83E6EE0EC559}|FirstProgramm.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\firstprogramm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59FD0BB1-6EDA-487F-A53F-83E6EE0EC559}|FirstProgramm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -14,9 +56,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{C64E6147-A4BD-4F3A-B37B-DB600D448D85}|..\\DataStructures\\DataStructures.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\datastructures\\graph\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C64E6147-A4BD-4F3A-B37B-DB600D448D85}|..\\DataStructures\\DataStructures.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\datastructures\\datastructures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C64E6147-A4BD-4F3A-B37B-DB600D448D85}|..\\DataStructures\\DataStructures.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\datastructures\\formallanguages\\common\\automatastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -38,7 +77,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,8 +92,179 @@
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrnytologyService.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\Service\\OrnytologyService.cs",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\Service\\OrnytologyService.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\Service\\OrnytologyService.cs",
+              "RelativeToolTip": "..\\Ornytolog\\Service\\OrnytologyService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvw4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:24:56.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrnytologyService.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\Service\\IOrnytologyService.cs",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\Service\\IOrnytologyService.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\Service\\IOrnytologyService.cs",
+              "RelativeToolTip": "..\\Ornytolog\\Service\\IOrnytologyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:24:30.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocalOrnytologyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\Repository\\LocalOrnytologyRepository.cs",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\Repository\\LocalOrnytologyRepository.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\Repository\\LocalOrnytologyRepository.cs",
+              "RelativeToolTip": "..\\Ornytolog\\Repository\\LocalOrnytologyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:12:05.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\Model\\Bird.cs",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\Model\\Bird.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\Model\\Bird.cs",
+              "RelativeToolTip": "..\\Ornytolog\\Model\\Bird.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:07:57.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrnytologyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\Repository\\IOrnytologyRepository.cs",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\Repository\\IOrnytologyRepository.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\Repository\\IOrnytologyRepository.cs",
+              "RelativeToolTip": "..\\Ornytolog\\Repository\\IOrnytologyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:06:44.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "..\\Ornytolog\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:05:27.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\ViewModel\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\ViewModel\\Core\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\ViewModel\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "..\\Ornytolog\\ViewModel\\Core\\RelayCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:03:44.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\ViewModel\\Core\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\ViewModel\\Core\\ObservableObject.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\ViewModel\\Core\\ObservableObject.cs",
+              "RelativeToolTip": "..\\Ornytolog\\ViewModel\\Core\\ObservableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:03:36.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ornytolog",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\Ornytolog.csproj",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\Ornytolog.csproj",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\Ornytolog.csproj",
+              "RelativeToolTip": "..\\Ornytolog\\Ornytolog.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T06:02:06.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\Ornytolog\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:02:31.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\App.xaml",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\App.xaml",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\App.xaml",
+              "RelativeToolTip": "..\\Ornytolog\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-05T06:02:15.61Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\MainWindow.xaml",
+              "RelativeToolTip": "..\\Ornytolog\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-05T06:01:26.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\Ornytolog\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Ornytolog\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\Ornytolog\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvx0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:01:26.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Graph.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\Graph\\Graph.cs",
               "RelativeDocumentMoniker": "..\\DataStructures\\Graph\\Graph.cs",
@@ -66,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "Edge.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\Graph\\Edge.cs",
               "RelativeDocumentMoniker": "..\\DataStructures\\Graph\\Edge.cs",
@@ -78,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "Vertex.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\Graph\\Vertex.cs",
               "RelativeDocumentMoniker": "..\\DataStructures\\Graph\\Vertex.cs",
@@ -90,20 +300,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgramm\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgramm\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T10:06:37.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "Transition.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\FormalLanguages\\Common\\Transition.cs",
               "RelativeDocumentMoniker": "..\\DataStructures\\FormalLanguages\\Common\\Transition.cs",
@@ -115,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "AutomataState.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\FormalLanguages\\Common\\AutomataState.cs",
               "RelativeDocumentMoniker": "..\\DataStructures\\FormalLanguages\\Common\\AutomataState.cs",
@@ -127,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "FLConstants.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\FormalLanguages\\Common\\FLConstants.cs",
               "RelativeDocumentMoniker": "..\\DataStructures\\FormalLanguages\\Common\\FLConstants.cs",
@@ -139,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "FiniteAutomata.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\FormalLanguages\\FiniteAutomata.cs",
               "RelativeDocumentMoniker": "..\\DataStructures\\FormalLanguages\\FiniteAutomata.cs",
@@ -151,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "DataStructures.csproj",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\DataStructures\\DataStructures.csproj",
               "RelativeDocumentMoniker": "..\\DataStructures\\DataStructures.csproj",
@@ -159,11 +369,8 @@
               "RelativeToolTip": "..\\DataStructures\\DataStructures.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-26T09:30:39.611Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2026-01-26T09:30:39.611Z",
+              "EditorCaption": ""
             }
           ]
         },
