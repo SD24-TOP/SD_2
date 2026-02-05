@@ -8,6 +8,26 @@
         Title="MainWindow" Height="500" Width="800">
     <Grid>
         <StackPanel>
+            <!--<ListBox
+                Height="200"
+                Margin="20"
+                ItemsSource="{Binding Birds}"
+                SelectedItem="{Binding SelectedBird}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock
+                    Text="{Binding Id}"
+                    FontSize="16"
+                    />
+                            <TextBlock
+                    Text="{Binding Name}"
+                    FontSize="16"
+                    />
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>-->
             <DataGrid
                 Height="200"
                 Margin="20"
