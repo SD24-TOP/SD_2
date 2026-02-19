@@ -1,0 +1,3 @@
+﻿Int a
+a = 5
+Print a

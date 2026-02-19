@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresIntegration",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornytolog", "..\Ornytolog\Ornytolog.csproj", "{6B6315B1-8A5A-449E-B0C4-D3132543BF49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compiler.Lib", "..\Compiler.Lib\Compiler.Lib.csproj", "{CAC23FC7-0C88-4244-8A92-A12ABE813D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compiler.Integration", "..\Compiler.Integration\Compiler.Integration.csproj", "{7905FD61-730A-4204-B852-684AF15764E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{6B6315B1-8A5A-449E-B0C4-D3132543BF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B6315B1-8A5A-449E-B0C4-D3132543BF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B6315B1-8A5A-449E-B0C4-D3132543BF49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC23FC7-0C88-4244-8A92-A12ABE813D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC23FC7-0C88-4244-8A92-A12ABE813D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC23FC7-0C88-4244-8A92-A12ABE813D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC23FC7-0C88-4244-8A92-A12ABE813D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7905FD61-730A-4204-B852-684AF15764E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7905FD61-730A-4204-B852-684AF15764E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7905FD61-730A-4204-B852-684AF15764E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7905FD61-730A-4204-B852-684AF15764E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
