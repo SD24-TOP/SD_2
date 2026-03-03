@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"8973b4e3d05bef8e","type":"text","text":"Проверка авторизации","x":-80,"y":100,"width":250,"height":60},
+		{"id":"36193559c83de393","type":"text","text":"Открытие [[AuthActivity]]","x":125,"y":300,"width":250,"height":50},
+		{"id":"b9b7ccc09c99c8b9","type":"text","text":"Открытие приложения","x":-80,"y":-20,"width":250,"height":60},
+		{"id":"90fd014bbe8bc18b","type":"text","text":"Открытие [[TreeActivity]]","x":-280,"y":295,"width":219,"height":60}
+	],
+	"edges":[
+		{"id":"7b9ec41da600d330","fromNode":"b9b7ccc09c99c8b9","fromSide":"bottom","toNode":"8973b4e3d05bef8e","toSide":"top"},
+		{"id":"5c84f82d35b6baed","fromNode":"8973b4e3d05bef8e","fromSide":"bottom","toNode":"36193559c83de393","toSide":"top","color":"1","label":"Неавторизован"},
+		{"id":"b27719eafb65273b","fromNode":"8973b4e3d05bef8e","fromSide":"bottom","toNode":"90fd014bbe8bc18b","toSide":"top","color":"4","label":"Авторизован"}
+	]
+}

@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgramm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CAC23FC7-0C88-4244-8A92-A12ABE813D92}|..\\Compiler.Lib\\Compiler.Lib.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.lib\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CAC23FC7-0C88-4244-8A92-A12ABE813D92}|..\\Compiler.Lib\\Compiler.Lib.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.lib\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAC23FC7-0C88-4244-8A92-A12ABE813D92}|..\\Compiler.Lib\\Compiler.Lib.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.lib\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAC23FC7-0C88-4244-8A92-A12ABE813D92}|..\\Compiler.Lib\\Compiler.Lib.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.lib\\lexem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7905FD61-730A-4204-B852-684AF15764E5}|..\\Compiler.Integration\\Compiler.Integration.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.integration\\code.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7905FD61-730A-4204-B852-684AF15764E5}|..\\Compiler.Integration\\Compiler.Integration.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAC23FC7-0C88-4244-8A92-A12ABE813D92}|..\\Compiler.Lib\\Compiler.Lib.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.lib\\lexem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,7 +41,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Integration\\Program.cs",
               "RelativeDocumentMoniker": "..\\Compiler.Integration\\Program.cs",
@@ -54,33 +54,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LexicalAnalyzer.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\LexicalAnalyzer.cs",
               "RelativeDocumentMoniker": "..\\Compiler.Lib\\LexicalAnalyzer.cs",
               "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\LexicalAnalyzer.cs",
               "RelativeToolTip": "..\\Compiler.Lib\\LexicalAnalyzer.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:26:51.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Reader.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\Reader.cs",
               "RelativeDocumentMoniker": "..\\Compiler.Lib\\Reader.cs",
               "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\Reader.cs",
               "RelativeToolTip": "..\\Compiler.Lib\\Reader.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:23:53.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Lexem.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\Lexem.cs",
               "RelativeDocumentMoniker": "..\\Compiler.Lib\\Lexem.cs",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "code.txt",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Integration\\code.txt",
               "RelativeDocumentMoniker": "..\\Compiler.Integration\\code.txt",
