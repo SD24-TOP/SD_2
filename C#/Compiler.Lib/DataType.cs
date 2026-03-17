@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Compiler.Lib
 {
-    public enum Lexem
+    public enum DataType
     {
-        Var,Equal,Print,Plus, Identifier, Int,String
+        Int, String, Boolean
     }
 }

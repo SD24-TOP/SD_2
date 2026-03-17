@@ -3,10 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgramm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAC23FC7-0C88-4244-8A92-A12ABE813D92}|..\\Compiler.Lib\\Compiler.Lib.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.lib\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7905FD61-730A-4204-B852-684AF15764E5}|..\\Compiler.Integration\\Compiler.Integration.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAC23FC7-0C88-4244-8A92-A12ABE813D92}|..\\Compiler.Lib\\Compiler.Lib.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.lib\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23FC7-0C88-4244-8A92-A12ABE813D92}|..\\Compiler.Lib\\Compiler.Lib.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.lib\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAC23FC7-0C88-4244-8A92-A12ABE813D92}|..\\Compiler.Lib\\Compiler.Lib.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.lib\\lexem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -15,7 +18,10 @@
       "AbsoluteMoniker": "D:0:0:{7905FD61-730A-4204-B852-684AF15764E5}|..\\Compiler.Integration\\Compiler.Integration.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.integration\\code.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7905FD61-730A-4204-B852-684AF15764E5}|..\\Compiler.Integration\\Compiler.Integration.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAC23FC7-0C88-4244-8A92-A12ABE813D92}|..\\Compiler.Lib\\Compiler.Lib.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.lib\\nametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23FC7-0C88-4244-8A92-A12ABE813D92}|..\\Compiler.Lib\\Compiler.Lib.csproj|c:\\users\\timofey.latypov\\documents\\magic\\sd_2\\c#\\compiler.lib\\datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +31,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,26 +47,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Integration\\Program.cs",
               "RelativeDocumentMoniker": "..\\Compiler.Integration\\Program.cs",
               "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Integration\\Program.cs",
               "RelativeToolTip": "..\\Compiler.Integration\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBQAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T06:38:10.278Z",
+              "WhenOpened": "2026-03-05T09:44:36.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "DataType.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\DataType.cs",
+              "RelativeDocumentMoniker": "..\\Compiler.Lib\\DataType.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\DataType.cs",
+              "RelativeToolTip": "..\\Compiler.Lib\\DataType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:41:42.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NameTable.cs",
+              "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\NameTable.cs",
+              "RelativeDocumentMoniker": "..\\Compiler.Lib\\NameTable.cs",
+              "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\NameTable.cs",
+              "RelativeToolTip": "..\\Compiler.Lib\\NameTable.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:40:26.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LexicalAnalyzer.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\LexicalAnalyzer.cs",
               "RelativeDocumentMoniker": "..\\Compiler.Lib\\LexicalAnalyzer.cs",
               "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\LexicalAnalyzer.cs",
               "RelativeToolTip": "..\\Compiler.Lib\\LexicalAnalyzer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:26:51.134Z",
               "EditorCaption": ""
@@ -73,33 +109,33 @@
               "RelativeDocumentMoniker": "..\\Compiler.Lib\\Reader.cs",
               "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\Reader.cs",
               "RelativeToolTip": "..\\Compiler.Lib\\Reader.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowA0AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:23:53.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Lexem.cs",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\Lexem.cs",
               "RelativeDocumentMoniker": "..\\Compiler.Lib\\Lexem.cs",
               "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Lib\\Lexem.cs",
               "RelativeToolTip": "..\\Compiler.Lib\\Lexem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T06:23:03.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "code.txt",
               "DocumentMoniker": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Integration\\code.txt",
               "RelativeDocumentMoniker": "..\\Compiler.Integration\\code.txt",
               "ToolTip": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\Compiler.Integration\\code.txt",
               "RelativeToolTip": "..\\Compiler.Integration\\code.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-02-19T06:08:32.721Z",
               "EditorCaption": ""

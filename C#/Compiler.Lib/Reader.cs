@@ -13,15 +13,13 @@ namespace Compiler.Lib
         public string Path { get; set; } = path;
         public List<string> Code { get; set; } = [];
 
-        public async 
-        Task
-Read()
+        public async Task Read()
         {
             string text;
             using (StreamReader reader = new StreamReader(path))
             {
                 text = await reader.ReadToEndAsync();
-                Code = text.Split("\r\n").ToList();
+                Code = text.Split("\r\n").ToList().Select(x=>x.Trim()).ToList();
                 Console.WriteLine("Код прочитан успешно.");
             }
 
