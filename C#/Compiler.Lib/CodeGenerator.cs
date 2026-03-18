@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace Compiler.Lib
 {
-    public enum Lexem
+    public class CodeGenerator
     {
-        Var,Equal,Print,Plus, Identifier, Int, String, Name, Int_val, String_val, Expressions, NextExpr
+        public void GenerateVariable(string name,DataType type)
+        {
+            return;
+        }
     }
 }

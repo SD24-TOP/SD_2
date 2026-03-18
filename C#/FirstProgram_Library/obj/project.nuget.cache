@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bv2wrGadP0M=",
+  "dgSpecHash": "tJrtCzqBR7g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgram_Library\\FirstProgram_Library.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\SD_2\\C#\\FirstProgram_Library\\FirstProgram_Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Тимофей\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Тимофей\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Тимофей\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

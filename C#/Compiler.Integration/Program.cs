@@ -12,11 +12,6 @@
 string path = "code.txt";
 Reader reader = new Reader(path);
 await reader.Read();
-LexicalAnalyzer lexicalAnalyzer = new LexicalAnalyzer();
-Console.WriteLine(
-    lexicalAnalyzer.CheckLexems(reader.Code) ? 
-    "Лексический анализ пройден успешно" : 
-    "Лексический анализ завершился с ошибкой");
 
 NameTable nameTable = new NameTable();
 //Проверка на первую строку - Тип данных a,b,c и т.д.
@@ -28,13 +23,19 @@ Console.WriteLine(nameTable.Table.Count > 0?
         .Select(x => $"{x.Key}:{x.Value}")
     ):"Ошибка обьявления переменных");
 
+LexicalAnalyzer lexicalAnalyzer = new LexicalAnalyzer(nameTable.Table);
+Console.WriteLine(
+    lexicalAnalyzer.CheckLexems(reader.Code) ? 
+    "Лексический анализ пройден успешно" : 
+    "Лексический анализ завершился с ошибкой");
+
+SyntaxAnalyzer syntaxAnalyzer = new SyntaxAnalyzer(lexicalAnalyzer.Lexems,nameTable.Table,reader.Code);
+Console.WriteLine(
+    syntaxAnalyzer.Parse() ?
+    "Парсинг пройден успешно" :
+    "Парсинг завершился с ошибкой");
+
+
 Console.WriteLine(string.Join(',',lexicalAnalyzer.Lexems));
-
-
-// Lexems
-
-// Syntax
-
-// Generation
 
 

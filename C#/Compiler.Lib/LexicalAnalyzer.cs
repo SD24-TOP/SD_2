@@ -5,11 +5,20 @@ namespace Compiler.Lib
     public class LexicalAnalyzer
     {
         const string alphabet = "abcdefghijklmnopqrstuvwxyz1234567890";
+
+        public LexicalAnalyzer(Dictionary<string, DataType> table)
+        {
+            NameTable = table;
+        }
+
         public List<Lexem> Lexems { get; set; } = [];
+        public Dictionary<string, DataType> NameTable { get; }
+
         public bool CheckLexems(List<string> code)
         {
-            foreach (string line in code)
+            for (int i = 0; i < code.Count; i++)
             {
+                string line = code[i];
                 foreach (string line2 in line.Split(" "))
                 {
                     switch (line2)
@@ -36,14 +45,33 @@ namespace Compiler.Lib
                             List<string> variables = line2.Split(",").ToList();
                             foreach (var variable in variables)
                             {
-                                foreach (char symbol in variable)
+                                if (NameTable.Keys.Contains(variable))
                                 {
-                                    if (!alphabet.Contains(symbol)) { return false; }
+                                    Lexems.Add(Lexem.Name);
                                 }
-                                Lexems.Add(Lexem.Identifier);
+                                else
+                                {
+                                    char symbol = variable[0];
+                                    if (char.IsDigit(symbol))
+                                    {
+                                        Lexems.Add(Lexem.Int_val);
+                                    }
+                                    else if (symbol=='\"' && variable.Last() == '\"')
+                                    {
+                                        Lexems.Add(Lexem.String_val);
+                                    }
+                                }
                             }
                             break;
                     }
+                }
+                if (i == 0)
+                {
+                    Lexems.Add(Lexem.Expressions);
+                }
+                else if(i<code.Count-2)
+                {
+                    Lexems.Add(Lexem.NextExpr);
                 }
             }
             return true;

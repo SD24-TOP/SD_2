@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgram_Library\\FirstProgram_Library.csproj": {}
+    "D:\\SD_2\\C#\\FirstProgram_Library\\FirstProgram_Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgram_Library\\FirstProgram_Library.csproj": {
+    "D:\\SD_2\\C#\\FirstProgram_Library\\FirstProgram_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgram_Library\\FirstProgram_Library.csproj",
+        "projectUniqueName": "D:\\SD_2\\C#\\FirstProgram_Library\\FirstProgram_Library.csproj",
         "projectName": "FirstProgram_Library",
-        "projectPath": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgram_Library\\FirstProgram_Library.csproj",
-        "packagesPath": "C:\\Users\\timofey.latypov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timofey.latypov\\Documents\\Magic\\SD_2\\C#\\FirstProgram_Library\\obj\\",
+        "projectPath": "D:\\SD_2\\C#\\FirstProgram_Library\\FirstProgram_Library.csproj",
+        "packagesPath": "C:\\Users\\Тимофей\\.nuget\\packages\\",
+        "outputPath": "D:\\SD_2\\C#\\FirstProgram_Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\IDE\\VSsdk\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\timofey.latypov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Тимофей\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -60,12 +60,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
